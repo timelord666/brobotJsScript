@@ -1,0 +1,1 @@
+JS script for brobot, it can send templates messages on incoming message, ignore forbidden words and answer on commands. PS1 script is gathering statistics for vk accs, need paste in script vk links.
